@@ -8,4 +8,9 @@ CREATE TABLE `users` (
 	`points` int // kanske ska vara int(11) vet inte om det spelar någon roll
 	);
 	
-Det är det jag körde. Behöver bara en tabel med 
+Det är det jag körde. Behöver bara den tabellen så om du kan fixa det vore det
+skitbra. Visste nämnligen inte hur jag skulle hantera det från mit php-script
+utan att skapa databasen flera gånger (varje gång någon submitar och correct.php
+körs) och då får jag error.
+
+/Patrik
