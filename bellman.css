@@ -3,6 +3,8 @@ body
 	background-image:url('bakgrund2.jpg');
 	background-repeat:repeat-y;
 	color:white;
+	background-color:black;
+	background-position:center;
 }
 .full
 {
