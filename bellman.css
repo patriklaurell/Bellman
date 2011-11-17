@@ -1,0 +1,20 @@
+body
+{
+	background-image:url('bakgrund2.jpg');
+	background-repeat:repeat-y;
+	color:white;
+}
+.full
+{
+	margin-top:200px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:200px;
+	width:300px;
+}
+.highscore
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:150px;
+}

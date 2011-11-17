@@ -1,0 +1,11 @@
+Jag visste inte hur jag skulle hantera databas skiten så för att det ska funka 
+måste en databas och en tabel skapas
+
+CREATE DATABASE presentation;
+
+CREATE TABLE `users` (
+	`users` varchar(50)
+	`points` int // kanske ska vara int(11) vet inte om det spelar någon roll
+	);
+	
+Det är det jag körde. Behöver bara en tabel med 
